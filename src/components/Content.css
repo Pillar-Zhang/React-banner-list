@@ -1,0 +1,14 @@
+.coach-content{
+    width: calc(100% - 20px);
+    padding: 0 20px;
+}
+
+.coach-list{
+    margin-bottom: -45px;
+    width: 100%;
+    margin-left:-18px;
+    display: flex;
+    justify-content: flex-start;
+    align-content: space-around;
+    flex-wrap: wrap;
+}

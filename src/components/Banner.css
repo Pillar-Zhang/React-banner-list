@@ -1,0 +1,54 @@
+.coach-recommend{
+    min-width: 1360px;
+    height: 314px;
+    overflow: hidden;
+    position: relative;
+}
+    
+.recommend-title{
+    height:37px;
+    line-height:37px;
+    font-size: 26px;
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+    letter-spacing: 2px;
+    margin-bottom: 13px;
+}
+
+.rec-item-list{
+    width: 6240px;
+    height: 240px;
+    position: relative;
+    margin-left: -20px;
+}
+.rec-item{
+    width: 605px;
+    height: 240px;
+    float: left;
+    margin-left: 20px;
+    background-color: #808080 !important;}
+.coach-img{
+    display: inline-block;
+    width: 605px;
+    height: 240px;
+    padding: 0;
+    border-radius: 4px  }          
+.coach-recommend-steps{
+    margin-top: 14px;
+    margin-left: -9px;
+    height:8px;
+    line-height:8px;
+}
+.coach-recommend-steps a{
+    margin-left: 10px;
+}
+.coach-recommend-steps .dot{
+    display: inline-block;
+    background-color:  #ECECEC;
+    width: 8px;
+    height: 8px;
+    border-radius: 4px}
+.coach-recommend-steps .active{
+    background-color:  #D3D3D3
+}
